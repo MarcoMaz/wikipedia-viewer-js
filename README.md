@@ -1,7 +1,6 @@
 # wikipedia-viewer-js
-# sdfsdf
 
-<a href="https://s.codepen.io/vinniezappa/debug/aNENEa/bYrdyeKBqLaA">
+<a href="https://s.codepen.io/vinniezappa/debug/aNENEa/bYrdyeKBqLaA" target="_blank>
 <img src="https://www.dropbox.com/s/kmhoscimt9psfir/01-wikipedia-viewer-JQUERY.jpg?raw=1">
 </a>
 
