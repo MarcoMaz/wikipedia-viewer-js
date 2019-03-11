@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC);
+body {
+  background-color: #04FF75;
+  font-family: "Playfair Display SC", serif;
+}
+body #container {
+  text-align: center;
+}
+body #container #app-title {
+  font-size: 7vw;
+  margin: 10vh 0;
+}
+body #container #form-container {
+  margin-bottom: 5vh;
+}
+body #container #form-container .btn {
+  background-color: #04FF75;
+  border: 1px solid black;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Playfair Display SC", serif;
+  font-size: 24px;
+  margin-top: 5vh;
+  padding: 10px;
+  text-decoration: none;
+}
+body #container #form-container #random {
+  padding: 14px;
+}
+body h1 {
+  font-size: 5vh;
+  font-weight: bold;
+}
+body .wiki-results {
+  border: 1px solid black;
+  margin: 0 auto 10vh;
+  width: 50vw;
+}
+body .wiki-results p {
+  padding: 0 5vw;
+}
