@@ -14,3 +14,9 @@ Hint #3: Use this link to experiment with Wikipedia's API.
 Remember to use Read-Search-Ask if you get stuck.
 When you are finished, click the "I've completed this challenge" button and include a link to your CodePen.
 You can get feedback on your project by sharing it with your friends on Facebook.
+
+Wikipedia Viewer JQUERY (Html5 / Css3 / SCSS / jQuery / Wikipedia API)
+Feb 2016
+
+Project descriptionFCC project of a responsive Wikipedia viewer built using Html5, Css3, Scss, and JQuery.
+Users can either search entries in a search box and see the resulting first five Wikipedia entries or click a button to see a random Wikipedia entry.
