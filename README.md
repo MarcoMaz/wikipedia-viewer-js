@@ -4,7 +4,7 @@
 <p>FCC project of a responsive Wikipedia viewer built using Html5, Css3, Scss, and JQuery.
 Users can either search entries in a search box and see the resulting first five Wikipedia entries or click a button to see a random Wikipedia entry.</p>
 
-<h1>Technologies used</h1>
+<h2>Technologies used</h2>
 <ul>
   <li>Html5</li>
   <li>Css3</li>
@@ -17,9 +17,8 @@ Users can either search entries in a search box and see the resulting first five
 <img src="https://www.dropbox.com/s/kmhoscimt9psfir/01-wikipedia-viewer-JQUERY.jpg?raw=1">
 </a>
 
-<p>User Stories</p>
+<h2>User Stories</h2>
 <ul>
   <li>I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.</li>
   <li>I can click a button to see a random Wikipedia entry.</li>
-  <li>
 </ul>
