@@ -12,7 +12,7 @@ Users can either search entries in a search box and see the resulting first five
 </ul>
 <h2>Where to find the project...</h2>
 <p>
-Click<a href="https://s.codepen.io/vinniezappa/debug/aNENEa/bYrdyeKBqLaA" target="_blank"> here</a>
+Click <a href="https://s.codepen.io/vinniezappa/debug/aNENEa/bYrdyeKBqLaA" target="_blank"> here</a>
 or in the image below <br/><br/><a href="https://s.codepen.io/vinniezappa/debug/aNENEa/bYrdyeKBqLaA" target="_blank">
 <img src="https://www.dropbox.com/s/kmhoscimt9psfir/01-wikipedia-viewer-JQUERY.jpg?raw=1">
 </a>
